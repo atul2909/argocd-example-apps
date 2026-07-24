@@ -4,6 +4,6 @@ metadata:
   name: app-config
   namespace: default
 data:
-  APP_NAME: "guestbook"
-  APP_ENV: "production"
-  LOG_LEVEL: "info"
+  APP_NAME: "guestbook1"
+  APP_ENV: "production1"
+  LOG_LEVEL: "info1"
